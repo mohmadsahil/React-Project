@@ -1,0 +1,36 @@
+.Navbar{
+    background-color: #00321A;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+  }
+  .logo-img{
+    height: 100px;
+    width: 100px;
+    margin-left: 30px;
+  }
+  .main-navbar-links{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .navbar-links{
+      padding: 0px 40px 0px 40px;
+      list-style-type: none;
+      font-size: 20px;
+      color: white;
+      cursor: pointer;
+  }
+  .navbar-links-button{
+    background-color: #C1FF72;
+    padding: 10px 20px 10px 20px;
+    color: #00321A;
+    font-weight: bold;
+    border-radius: 30px;
+    border: none;
+    cursor: pointer;
+    margin-right: 30px;
+    font-size: 20px;
+  }
+  

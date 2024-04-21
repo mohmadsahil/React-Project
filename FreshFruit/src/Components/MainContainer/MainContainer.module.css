@@ -1,0 +1,28 @@
+.containerMainDiv{
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin-top: 40px;
+}
+.leftMainDiv{
+    height: auto;
+    width: 50%;
+}
+
+.leftMainDiv h1{
+    font-size: 50px;
+    padding-left:  30px;
+    color: #0C5743;
+}
+.rightMainDiv{
+    height: auto;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.rightMainDivImg{
+    height: 100%;
+    width: 100%;
+    display: flex;
+}

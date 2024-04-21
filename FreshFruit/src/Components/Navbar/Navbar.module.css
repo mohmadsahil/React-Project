@@ -1,0 +1,39 @@
+.mainNavbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.mainNavbar h1{
+    color: #0C5743;
+    margin-left: 30px;
+}
+
+.navLinks{
+    display: flex;
+    align-items: center;
+}
+
+.navLinks li{
+    margin: 0px 40px 0px 40px;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+    color: #0C5743;
+    font-weight: 500;
+}
+.navLinks input{
+    margin: 0px 40px 0px 40px;
+    padding: 5px 40px 5px 40px;
+    border-radius: 5px;
+    border: 2px solid black;
+    box-shadow: 5px 5px black;
+    height: 22px;
+    outline: none;
+}
+
+::placeholder{
+    color: black;
+    font-family: "Montserrat", sans-serif; 
+}

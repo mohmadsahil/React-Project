@@ -1,0 +1,11 @@
+.categoryText{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    font-weight: 400;
+}
+.mainCategoryCards{
+    display: flex;
+    align-items: center;
+}

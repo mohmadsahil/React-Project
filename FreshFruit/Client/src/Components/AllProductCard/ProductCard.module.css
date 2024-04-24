@@ -1,0 +1,42 @@
+
+.mainProductCard{
+    height: auto;
+    width: 80%;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    box-shadow: 5px 5px 10px gray;
+    margin-left: 30px;
+}
+
+.productCardImg img{
+    height:100%;
+    width: 100%;
+}
+.productCardDes{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 5px 0px 5px;
+}
+.buttonSection{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.heartButton{
+    background-color: #0C5743;
+    color: white;
+    padding: 5px 10px 1px 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 25px;
+    cursor: pointer;
+}
+.productCardName h1{
+    font-weight: 400;
+    font-size: 30px;
+}
+.productCardPrice h1{
+    font-weight: 400;
+    font-size: 30px;
+}

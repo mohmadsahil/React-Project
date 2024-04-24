@@ -1,0 +1,13 @@
+.allProductContainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: auto;
+}
+
+.allProductText{
+    font-weight: 400;
+    font-size: 30px;
+    margin-bottom: 40px;
+}

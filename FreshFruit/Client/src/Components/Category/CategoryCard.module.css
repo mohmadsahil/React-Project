@@ -1,0 +1,30 @@
+.mainCategoryCard{
+    height: auto;
+    width: 100%;
+}
+
+.categoryCard{
+    height: auto;
+    width: 88%;
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-bottom: 40px;
+}
+
+.categoryCardImg img{
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 1px 1px 10px rgb(30, 29, 29);
+}
+
+.categoryCardTextBtn{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.categoryCardTextBtn p{
+    font-weight: 500;
+}
